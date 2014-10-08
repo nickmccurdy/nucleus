@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mid",
+				"midpoint"
+			],
+			[
+				"ma",
+				"majorityCandidate"
+			],
+			[
+				"max",
+				"maxOccurencesIndex"
+			],
+			[
+				"petition",
+				"petitionGroup"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/nick/.homesick/repos/dotfiles/scripts/lsconfigs",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/.homesick/repos/dotfiles/scripts/spaces2tabs",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nick/Repos/nucleus"
+	],
+	"file_history":
+	[
+		"/Users/nick/Repos/crazy-train/.git/MERGE_MSG",
+		"/Users/nick/.ssh/config",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/spaces2tabs",
+		"/Users/nick/perl/whatdoiuse.pl",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/whatdoiuse",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/update",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/rm-mac-files",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/rbackup",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/maintenance",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/git-update-branch",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/ghdeploy",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/fmake",
+		"/Users/nick/.homesick/repos/dotfiles/scripts/dbupload",
+		"/Users/nick/cat.pl",
+		"/Users/nick/tmp/poole/config_edits.patch",
+		"/Users/nick/tmp/poole/_config.yml",
+		"/Users/nick/Repos/poole/_config.yml",
+		"/Users/nick/poole/_config.yml",
+		"/Users/nick/Repos/nucleus/nucleus.html",
+		"/Users/nick/poole/index.html",
+		"/Users/nick/Repos/nucleus/.git/COMMIT_EDITMSG",
+		"/Users/nick/Repos/nicolasmccurdy.github.io/.git/COMMIT_EDITMSG",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nick/Repos/nicolasmccurdy.github.io/index.md",
+		"/Users/nick/Repos/poole/.git/COMMIT_EDITMSG",
+		"/Users/nick/Repos/poole/_layouts/default.html",
+		"/Users/nick/Repos/poole/404.html",
+		"/Users/nick/Repos/poole/_layouts/page.html",
+		"/Users/nick/Repos/poole/_layouts/post.html",
+		"/Users/nick/Repos/poole/about.md",
+		"/Users/nick/Repos/poole/atom.xml",
+		"/Users/nick/Repos/poole/index.html",
+		"/Users/nick/site/_sass/_syntax-highlighting.scss",
+		"/Users/nick/Repos/poole/.git/rebase-merge/git-rebase-todo",
+		"/Users/nick/Repos/poole/_includes/head.html",
+		"/Users/nick/Repos/poole/public/css/poole.scss",
+		"/Users/nick/.zshenv",
+		"/Users/nick/Repos/csci261/homework_2/Majority.java",
+		"/Users/nick/Repos/csci261/homework_2/PaperFold.java",
+		"/Users/nick/Repos/csci261/.git/COMMIT_EDITMSG",
+		"/Users/nick/Repos/csci261/.gitignore",
+		"/Users/nick/Repos/csci261/homework_2/majority.cpp",
+		"/Users/nick/Dropbox/Projects/Design/microwavetechtalk.svg",
+		"/Users/nick/Google Drive/Personal/Simplenote/c6cf582606ed11e48ffe9b7f6be748a8.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-c2a19dd2d484bb1e840f6bf65dd9aadb.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-bd7b72b0efb511e3bb6871334bc862b6.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-b9193c63b0aa427bacb202396c70be1c.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-b593a290f5fd426fbdcf2f5133938f8e.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-agtzaW1wbGUtbm90ZXINCxIETm90ZRjbo6kGDA.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-agtzaW1wbGUtbm90ZXINCxIETm90ZRjQ6IgDDA.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-agtzaW1wbGUtbm90ZXINCxIETm90ZRimrYcDDA.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-aa7c2d9e4a67cebf641d33a29a4c9931.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-a74dd7925af734b26ecf7420ff052445.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-a40dcae02c9dab0ebebe27afc77e93ce.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-999fbef02d7711e48c0b9b113cd484f0.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-9952f7e6e61711e3a5882bfcfae072ee.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-96f856ebe84111e3b1bbdb18084afa70.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-95aea1eb2e1911e4b5798b4a362d3555.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-8ce33bee64f6470795e45c24976a210d.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-875b7059eab611e3b0b6c36154f887f5.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-86c8285e0f9b07abf7c25991179adf22.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-82b6d5efe96490cc5ddcc833cf05b88e.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-81256135141a11e4a81efd8af0233968.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-807d83a1df0a11e3ab3997607d0d2266.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-7974b1cf07c011e481d6450a3f164986.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-7336d7478eab4f6c8d98b3463553be04.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-73001534c5c5e2db813862fa036ec2df.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-72fc0ce8fd9011e39589cf5579f64ad5.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-71b15e54298747744a880974d5bc22de.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-6d4b3873f0f611e3b5ac2fdb2aec136c.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-63e443b8cc921433055dd8df06fd0d55.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-6140d97068544329bcc670614640b7b5.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-60ecd8ebf1b611e3a943d95b1625fa7a.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-609e87f2bba22c493afabb1337a4c54d.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-5f046b57fe084d6496286d64a747b48f.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-592bc590fbda4bdca6fabaa38ff33e85.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-5715b9cad97011e3bb770faebefb53f7.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-5546d7b8666b45b694446b86ec6c10e3.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-52b860a7075703ea63b6430d1eba4d2c.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-4ed8d6d71e72631983f655d74c424af1.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-489778b3e1e6e32b3e2c0413715a2003.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-4743c5ae016d11e4a56ec56db9e94a90.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-4518c678dfc111e394fd3388b822339e.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-4009c4a5575faad3574f2d904be8279c.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-3cf47e76694deef861a9558e1dd72ac1.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-3c61d38cd47511e38a0c154271c063ba.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-3bc90c9cd47511e3a98d79ca5d984c28.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-3b32a451d47511e3af2c63500b311604.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-3aa98402d47511e3904671021f05e20b.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-3990623615814037bdf8bc2680a3123e.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-34def19e023b11e48ad8872e31fb1340.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-2f645eb8dcc011e38485b9cba8713f37.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-240da4f8217a11e4bd28371cb14a0e99.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-2366e5c5093c11e4a4487719ea567f74.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-225e58d349ba18bfb09a24d5a9ed2086.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-13635dde0a4211e4909477a375cb7378.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-11d43f111ce84b84b55acbfcaca441a8.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-103fc159f64044282fd1283226473d1c.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-0708f9ccbbe2d1bfdae97046cab68a03.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-05a4828b15494081adc4cb7ff776210c.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-04274fa483294c55aa7f26316472cd40.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-04083c89177c430d9fe7f08f1b7fa2e4.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-01ecd87b7ad4b805c173c4edb6c91e6d.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-003dd10cd47611e3876479ca5d984c28.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-c5e8c678e2edc9e5f3d24d3620953d51.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-c87c0d97105b11e4b72ed5d3099eed56.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-c8bf7f5e18e411e4a0f1f77d8d7b68f8.txt",
+		"/Users/nick/Google Drive/Personal/Simplenote/trash-c91bf7fc0bd0a9c7697e9a89c4e6e82b.txt",
+		"/Users/nick/Repos/crazy-train/assets/css/_variables.scss",
+		"/Users/nick/Repos/crazy-train/.git/COMMIT_EDITMSG",
+		"/Users/nick/Repos/crazy-train/_includes/_nav.html",
+		"/Users/nick/Repos/nicolasmccurdy.github.io/.git/MERGE_MSG",
+		"/Users/nick/Repos/branding/.git/MERGE_MSG",
+		"/Users/nick/Repos/crazy-train/_includes/_secondary_nav.html",
+		"/Users/nick/Repos/branding/.git/COMMIT_EDITMSG",
+		"/Users/nick/Repos/branding/branding.md",
+		"/Users/nick/Repos/crazy-train/.gitmodules",
+		"/Users/nick/Repos/torque/bower.json",
+		"/Users/nick/Repos/torque/bower",
+		"/Users/nick/Repos/branding/README.md",
+		"/Users/nick/Repos/branding/old_guide.txt",
+		"/Users/nick/Repos/petitions/client/views/posts/posts_lists.js",
+		"/Users/nick/Repos/crazy-train/events/index.html",
+		"/Users/nick/Repos/crazy-train/events/gtv.html",
+		"/Users/nick/Repos/crazy-train/events/ftv.html",
+		"/Users/nick/Repos/crazy-train/_layouts/tv.html",
+		"/Users/nick/Repos/crazy-train/_site/ftv/index.html",
+		"/Users/nick/Repos/crazy-train/_site/gtv/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"occurences",
+			"\\\\n",
+			"petitionGroup",
+			"postsLimit",
+			"postLimit",
+			"loading",
+			"icon-loading",
+			"postsLimit",
+			"firefox"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"occurrences",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/nick/.homesick/repos/dotfiles/scripts/lsconfigs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nick/.homesick/repos/dotfiles/scripts/spaces2tabs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "nucleus.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"pet",
+				"~/Repos/petitions/petitions.sublime-workspace"
+			],
+			[
+				"",
+				"~/Repos/petitions/petitions.sublime-workspace"
+			],
+			[
+				"et",
+				"~/Repos/petitions/petitions.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
