@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @bin.title %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @bin.description %>
+</p>
+
+<p>
+  <strong>Body:</strong>
+  <%= @bin.body %>
+</p>
+
+<%= link_to 'Edit', edit_bin_path(@bin) %> |
+<%= link_to 'Back', bins_path %>
