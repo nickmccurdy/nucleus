@@ -1,13 +1,12 @@
 body {
   background-color: #fff;
   color: #333;
-  font-family: verdana, arial, helvetica, sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 13px;
   line-height: 18px;
 }
 
 p, ol, ul, td {
-  font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
   line-height: 18px;
 }
@@ -16,6 +15,10 @@ pre {
   background-color: #f7f7f7;
   padding: 10px;
   font-size: 11px;
+}
+
+code {
+  font-family: "Source Code Pro", monospace;
 }
 
 a {
