@@ -18,7 +18,7 @@ class BinsControllerTest < ActionController::TestCase
 
   test "should create bin" do
     assert_difference('Bin.count') do
-      post :create, bin: { body: @bin.body, description: @bin.description, title: @bin.title }
+      post :create, bin: { body: '{}', title: 'Some Bin' }
     end
 
     assert_redirected_to bin_path(assigns(:bin))
@@ -35,7 +35,7 @@ class BinsControllerTest < ActionController::TestCase
   end
 
   test "should update bin" do
-    patch :update, id: @bin, bin: { body: @bin.body, description: @bin.description, title: @bin.title }
+    patch :update, id: @bin, bin: { body: '{}', title: @bin.title }
     assert_redirected_to bin_path(assigns(:bin))
   end
 
