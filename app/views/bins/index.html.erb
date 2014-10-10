@@ -1,28 +1,15 @@
 <h1>Listing bins</h1>
 
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Description</th>
-      <th>Body</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <% @bins.each do |bin| %>
-      <tr>
-        <td><%= bin.title %></td>
-        <td><%= bin.description %></td>
-        <td><%= bin.body %></td>
-        <td><%= link_to 'Show', bin %></td>
-        <td><%= link_to 'Edit', edit_bin_path(bin) %></td>
-        <td><%= link_to 'Destroy', bin, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
+<ul>
+  <% @bins.each do |bin| %>
+    <li>
+      <h2><%= link_to bin.title, bin %></h2>
+      <p><%= bin.description %></p>
+      <%= link_to 'Edit', edit_bin_path(bin) %> |
+      <%= link_to 'Destroy', bin, method: :delete, data: { confirm: 'Are you sure?' } %>
+    </li>
+  <% end %>
+</ul>
 
 <br>
 

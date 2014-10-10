@@ -1,19 +1,10 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Title:</strong>
-  <%= @bin.title %>
-</p>
+<h1><%= @bin.title %></h1>
 
-<p>
-  <strong>Description:</strong>
-  <%= @bin.description %>
-</p>
+<p><%= @bin.description %></p>
 
-<p>
-  <strong>Body:</strong>
-  <%= highlight @bin.body %>
-</p>
+<%= highlight @bin.body %>
 
 <%= link_to 'Edit', edit_bin_path(@bin) %> |
 <%= link_to 'Back', bins_path %>
