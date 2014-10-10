@@ -1,5 +1,7 @@
 Nucleus
 =======
+[![Build Status](https://travis-ci.org/nicolasmccurdy/nucleus.svg?branch=master)](https://travis-ci.org/nicolasmccurdy/nucleus)
+[![Dependency Status](https://gemnasium.com/nicolasmccurdy/nucleus.svg)](https://gemnasium.com/nicolasmccurdy/nucleus)
 
 A new kind of pastebin for open data.
 
