@@ -1,35 +1,14 @@
 body {
-  background-color: #fff;
-  color: #333;
   font-family: "Source Sans Pro", sans-serif;
-  font-size: 13px;
-  line-height: 18px;
-}
-
-p, ol, ul, td {
-  font-size: 13px;
-  line-height: 18px;
 }
 
 pre {
   background-color: #f7f7f7;
   padding: 10px;
-  font-size: 11px;
 }
 
 code {
   font-family: "Source Code Pro", monospace;
-}
-
-a {
-  color: #000;
-  &:visited {
-    color: #666;
-  }
-  &:hover {
-    color: #fff;
-    background-color: #000;
-  }
 }
 
 div {
