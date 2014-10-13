@@ -1,29 +1,26 @@
-<%= form_for(@bin) do |f| %>
-  <% if @bin.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@bin.errors.count, "error") %> prohibited this bin from being saved:</h2>
+<%= form_for(@bin, html: { class: 'pure-form pure-form-stacked' }) do |f| %>
+  <fieldset>
+    <% if @bin.errors.any? %>
+      <div id="error_explanation">
+        <h2><%= pluralize(@bin.errors.count, "error") %> prohibited this bin from being saved:</h2>
 
-      <ul>
-      <% @bin.errors.full_messages.each do |message| %>
-        <li><%= message %></li>
-      <% end %>
-      </ul>
-    </div>
-  <% end %>
+        <ul>
+        <% @bin.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+        </ul>
+      </div>
+    <% end %>
 
-  <div class="field">
-    <%= f.label :title %><br>
+    <%= f.label :title %>
     <%= f.text_field :title %>
-  </div>
-  <div class="field">
-    <%= f.label :description %><br>
+
+    <%= f.label :description %>
     <%= f.text_area :description %>
-  </div>
-  <div class="field">
-    <%= f.label :body %><br>
+
+    <%= f.label :body %>
     <%= f.text_area :body %>
-  </div>
-  <div class="actions">
-    <%= f.submit %>
-  </div>
+
+    <%= f.submit class: "pure-button pure-button-primary" %>
+  </fieldset>
 <% end %>
