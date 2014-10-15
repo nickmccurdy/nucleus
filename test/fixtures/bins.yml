@@ -1,11 +1,10 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  description: MyText
-  body: MyText
+  title: Bin 1
+  body: '{}'
 
 two:
-  title: MyString
-  description: MyText
-  body: MyText
+  title: Bin 2
+  description: My hip bin.
+  body: '{ "awesome": true }'
