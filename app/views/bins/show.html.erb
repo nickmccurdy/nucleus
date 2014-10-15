@@ -4,6 +4,10 @@
 
 <p><%= @bin.description %></p>
 
+<h2>Preview</h2>
+<%= render partial: 'data', locals: { data: JSON.parse(@bin.body) } %>
+
+<h2>Code</h2>
 <%= highlight @bin.body %>
 
 <%= link_to 'Edit', edit_bin_path(@bin) %> |
