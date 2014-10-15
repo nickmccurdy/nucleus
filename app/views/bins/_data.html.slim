@@ -1,0 +1,13 @@
+- if data.is_a? Hash
+  dl
+    - data.each do |key, value|
+      dt= render partial: 'data', locals: { data: key }
+      dd= render partial: 'data', locals: { data: value }
+- elsif data.is_a? Array
+  ul
+    - data.each do |value|
+      li= render partial: 'data', locals: { data: value }
+- elsif data.is_a? String
+  | "#{ data }"
+- else
+  = data

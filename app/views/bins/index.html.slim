@@ -1,0 +1,12 @@
+h1 Listing bins
+
+ul
+  - @bins.each do |bin|
+    li
+      h2= link_to bin.title, bin
+      p= bin.description
+      | #{ link_to 'Edit', edit_bin_path(bin) } | #{ link_to 'Destroy', bin, method: :delete, data: { confirm: 'Are you sure?' } }
+
+br
+
+= link_to 'New Bin', new_bin_path

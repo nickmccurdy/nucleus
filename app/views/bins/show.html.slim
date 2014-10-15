@@ -1,0 +1,13 @@
+p#notice= notice
+
+h1= @bin.title
+
+p= @bin.description
+
+h2 Preview
+= render partial: 'data', locals: { data: JSON.parse(@bin.body) }
+
+h2 Code
+= highlight @bin.body
+
+| #{ link_to 'Edit', edit_bin_path(@bin) } | #{ link_to 'Back', bins_path }
