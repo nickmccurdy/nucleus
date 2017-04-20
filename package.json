@@ -13,7 +13,7 @@
   "scripts": {
     "test": "jest",
     "dev": "next",
-    "prepare": "next build",
+    "postinstall": "next build",
     "start": "next start"
   },
   "engines": {
