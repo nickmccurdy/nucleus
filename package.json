@@ -15,5 +15,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start"
+  },
+  "engines": {
+    "node": ">=5"
   }
 }
