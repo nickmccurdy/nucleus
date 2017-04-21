@@ -1,4 +1,5 @@
 import Index from '../pages'
+import React from 'react'
 import { create } from 'react-test-renderer'
 
 describe('Pages', () => {
