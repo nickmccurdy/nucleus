@@ -28,6 +28,9 @@
     "postinstall": "webpack",
     "start": "node bundle"
   },
+  "engines": {
+    "node": ">=5"
+  },
   "babel": {
     "plugins": [
       "transform-react-jsx"
